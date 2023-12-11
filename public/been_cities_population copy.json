@@ -255,6 +255,17 @@
       "countryCode": "IT"
     },
     {
+      "text": "Teotihuacan Municipality, Mexico",
+      "size": 0.00001,
+      "country": "Mexico",
+      "city": "Teotihuacan Municipality",
+      "lat": 19.683474,
+      "lng": -98.875145,
+      "population": 0,
+      "countryName": "Mexico",
+      "countryCode": "MX"
+    },
+    {
       "text": "Skogar, Iceland",
       "size": 0.00001,
       "country": "Iceland",
@@ -385,6 +396,17 @@
       "population": 0,
       "countryName": "New Zealand",
       "countryCode": "NZ"
+    },
+    {
+      "text": "San Juan Teotihuacan, Mexico",
+      "size": 0.00001,
+      "country": "Mexico",
+      "city": "San Juan Teotihuacan",
+      "lat": 19.68608,
+      "lng": -98.88936,
+      "population": 0,
+      "countryName": "Mexico",
+      "countryCode": "MX"
     },
     {
       "text": "Manila, Philippines",
@@ -640,6 +662,17 @@
       "countryCode": "AU"
     },
     {
+      "text": "Cholula, Mexico",
+      "size": 0.00001,
+      "country": "Mexico",
+      "city": "Cholula",
+      "lat": 19.030577,
+      "lng": -98.31484,
+      "population": 87897,
+      "countryName": "Mexico",
+      "countryCode": "MX"
+    },
+    {
       "text": "Waitomo Caves, New Zealand",
       "size": 0.00001,
       "country": "New Zealand",
@@ -783,6 +816,17 @@
       "countryCode": "EE"
     },
     {
+      "text": "Puebla, Mexico",
+      "size": 0.00001,
+      "country": "Mexico",
+      "city": "Puebla",
+      "lat": 19.04136,
+      "lng": -98.20628,
+      "population": 1692181,
+      "countryName": "Mexico",
+      "countryCode": "MX"
+    },
+    {
       "text": "Guanajuato, Mexico",
       "size": 0.00001,
       "country": "Mexico",
@@ -904,6 +948,17 @@
       "countryCode": "PE"
     },
     {
+      "text": "Dolores Hidalgo, Mexico",
+      "size": 0.00001,
+      "country": "Mexico",
+      "city": "Dolores Hidalgo",
+      "lat": 21.14836,
+      "lng": -100.91879,
+      "population": 59240,
+      "countryName": "Mexico",
+      "countryCode": "MX"
+    },
+    {
       "text": "Olafsvik, Iceland",
       "size": 0.00001,
       "country": "Iceland",
@@ -913,6 +968,17 @@
       "population": 1010,
       "countryName": "Iceland",
       "countryCode": "IS"
+    },
+    {
+      "text": "Beijing, China",
+      "size": 0.00001,
+      "country": "China",
+      "city": "Beijing",
+      "lat": 39.909336,
+      "lng": 116.39452,
+      "population": 18960744,
+      "countryName": "China",
+      "countryCode": "CN"
     },
     {
       "text": "Ararat, Australia",
@@ -1353,6 +1419,17 @@
       "population": 48268,
       "countryName": "France",
       "countryCode": "FR"
+    },
+    {
+      "text": "Shanghai, China",
+      "size": 0.00001,
+      "country": "China",
+      "city": "Shanghai",
+      "lat": 31.234953,
+      "lng": 121.48737,
+      "population": 22315474,
+      "countryName": "China",
+      "countryCode": "CN"
     },
     {
       "text": "Bern, Switzerland",
