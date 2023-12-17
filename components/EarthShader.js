@@ -6,7 +6,7 @@ float vRemap(float value, float min, float max, float newMin, float newMax) {
 export const pNormalA = /* glsl*/ `
 vec2 dHdxy_fwd(vec2 uv, sampler2D map, float scale) {
   float scaledBumpScale = scale / 10.0;
-  vec2 dSTdx = dFdx( uv );
+  vec2 dSTdx = dFdx( uv );  
   vec2 dSTdy = dFdy( uv );
   float Hll = scaledBumpScale * texture2D( map, uv ).x;
   float dBx = scaledBumpScale * texture2D( map, uv + dSTdx ).x - Hll;
